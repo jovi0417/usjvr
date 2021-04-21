@@ -129,13 +129,13 @@
   ],
   "images": [
     {
-      "uri": "textures/lambert2_metallicRoughness.png"
+      "uri": "https://github.com/jovi0417/usjvr/blob/main/lambert2_metallicRoughness.png"
     },
     {
-      "uri": "textures/lambert2_normal.png"
+      "uri": "https://github.com/jovi0417/usjvr/blob/main/lambert2_normal.png"
     },
     {
-      "uri": "textures/lambert2_baseColor.jpeg"
+      "uri": "https://github.com/jovi0417/usjvr/blob/main/lambert2_baseColor.jpeg"
     }
   ],
   "materials": [
